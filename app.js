@@ -1221,17 +1221,5 @@ const filtered = countries.find((country, index) => {
 });
 console.log(filtered);
 
-// let i = 10;
-// while (i < 4) {
-//   console.log(i);
-//   i++;
-// }
-
-// let y = 30;
-
-// do {
-//   console.log("THis is do while");
-//   y++;
-// } while (y < 5);
 
 // DOM

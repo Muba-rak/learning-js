@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: burlywood;
+}
+
+form{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+input{
+    display: block;
+    margin: 5px auto;
+    border-radius: 10px;
+    padding: 5px;
+    height: 40px;
+    width: 90%;
+    outline: none;
+    border: none;
+    background-color: aliceblue;
+
+}
+button{
+    display: block;
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    font-size: 16px;
+    color: white;
+    font-weight: 300;
+    height: 40px;
+    margin: 5px auto;
+}
